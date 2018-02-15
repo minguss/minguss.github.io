@@ -4,10 +4,9 @@ title: About me
 subtitle: Record governs memory!
 ---
 
-### Introduce
-
+### Introduce  
 For 5 years I worked as Software Developer, System Engineer, Technical Architect.  
-My Responsibilities were to:
+My Responsibilities were to:  
 - Develop system engineering, software engineering, system integration, or system architectures
 - Setting up automated CI/CD environment
 - Monitoring system operation to detect potential problems
@@ -25,7 +24,6 @@ My Responsibilities were to:
 
 ### Education
 - Bachelor of Engineering in Computer Engineering, Yonsei University (2012.02)
-  
   - 9th Embedded Software Contest Encouragement Award(2011)  
     [Motion capture robot using kinect(x-box controller)](http://eswcontest.com/bbs/board.php?tbl=award&&chr=&category=2011%B3%E2&findType=&findWord=&sort1=&sort2=&page=2)
   - 8th Embedded Software Contest Encouragement Award (2010)
