@@ -54,7 +54,6 @@ blockquote a{
   padding: 0 3px;
   color: #2e9fff;
 }
-
 blockquote a:hover{
  color: #666;
 }
@@ -528,7 +527,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans','Noto Sans KR','Helvetica Neue',sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -545,7 +544,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 70px;
+    font-size: 80px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
