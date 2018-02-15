@@ -23,7 +23,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans','Noto Sans KR','Helvetica Neue',sans-serif;
-  font-weight: 800;
+  font-weight: 700;
 }
 a {
   color: {{ site.link-col }};
@@ -32,9 +32,31 @@ a:hover,
 a:focus {
   color: {{ site.hover-col }};
 }
-blockquote {
-  color: #808080;
-  font-style: italic;
+blockquote{
+  display:block;
+  background: #f5f5f5;
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+  font-family: 'Open Sans','Noto Sans KR','Helvetica Neue',sans-serif;
+  font-size: 13px;
+  color: #666;
+  border-left: 10px solid #2e9fff;
+  border-right: 1px solid #2e9fff;
+  -moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;
+}
+blockquote a{
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #2e9fff;
+}
+
+blockquote a:hover{
+ color: #666;
 }
 blockquote p:first-child {
   margin-top: 0;
@@ -123,7 +145,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 700;
   color: {{ site.navbar-text-col }};
 }
 
@@ -376,7 +398,7 @@ footer .theme-by {
   width: 192px;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 700;
 }
 
 @media only screen and (min-width: 768px) {
@@ -478,7 +500,7 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 20px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans','Noto Sans KR','Helvetica Neue',sans-serif;
@@ -523,7 +545,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 70px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
@@ -593,7 +615,7 @@ footer .theme-by {
   font-family: 'Open Sans','Noto Sans KR','Helvetica Neue',sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 1px;
   padding: 10px 5px;
   background-color: #FFF;
@@ -793,7 +815,7 @@ color: #f1c40f;
 
 .about-prompt {
   color:#c7254e;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .about-container-content {
