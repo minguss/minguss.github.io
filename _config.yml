@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Minguss Devlog
+title: Devlog
 subtitle: "This is where I blog about tech, and life as I know it"
 email: minguss0821@gmail.com
 name: minguss
