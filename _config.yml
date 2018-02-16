@@ -81,21 +81,21 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: 
+    username: minho.park
     url: https://www.facebook.com/minho.park.1042
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: 
+    username: minguss
     url: https://github.com/minguss
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: 
+    username: minho.park
     url: https://www.linkedin.com/in/minho-park-26881010a
     desc: Connect with me on LinkedIn
     share: true
@@ -116,7 +116,7 @@ social:
 
   - name: StackOverFlow
     icon: stack-overflow
-    username:
+    username: minguss
     url: https://stackoverflow.com/users/8480927/minguss
     desc:
     share: true
