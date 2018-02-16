@@ -15,11 +15,10 @@ share-img: /assets/img/upload/meetup18/meetup-logo.png
 내년에도 기회가 된다면 꼭 자원봉사 신청하고 싶습니다.  
 
 행사 홈페이지는 [http://meetup.devopskorea.com/](http://meetup.devopskorea.com/)입니다.  
-![session table](http://meetup.devopskorea.com/schedule.png)
+![session table](http://meetup.devopskorea.com/schedule.png)  
 
-![name tag](/assets/img/upload/meetup18/1.jpg)  
-사전등록 체크를 한 뒤에 이렇게 네임택을 주셨어요. 퀄리티가 매우 좋았습니다.  
-이 뿐만 아니라 엄청난 후원으로 사은품이 굉장했습니다.  
+사전등록 체크를 한 뒤에 네임택을 주셨어요. 퀄리티가 매우 좋았습니다.  
+이 뿐만 아니라 엄청난 후원으로 사은품이 엄청났습니다.  
 세션이 끝난 뒤에는 경품추첨도 했구요. (물론 경품 당첨되진 않았습니다만 확률은 높았습니다.)  
 
 요 근래 경험했던 세미나 중에서는 인상적이었습니다. 준비위원회 분들께서 고민하신 부분이 눈에 많이 보였습니다.  
