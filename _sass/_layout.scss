@@ -135,7 +135,13 @@ pre code.hljs {
       padding-right: 1em;
     }
     span {
-    	font-size: 1.25em;
+			font-size: 2em;
+			font-family: "Roboto Slab","Helvetica Neue","Helvetica","Arial",sans-serif;
+			line-height: 1.8;
+			margin: 0 0 1rem;
+			box-sizing: inherit;
+			display: block;
+	    font-weight: bold;			
     }
   }
   nav {
