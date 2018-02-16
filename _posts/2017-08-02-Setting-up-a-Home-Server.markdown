@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Setting up a Home Server"
-subtitle:   "Setting up a Home Server"
+date:   2017-08-02 08:00:00
+author: minguss
+categories: devlog life
 tags: server
 ---
 

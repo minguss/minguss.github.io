@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Gitlab-Installation"
-subtitle:   "Gitlab-Installation"
-categories: devlog
+date:   2017-07-15 08:00:00
+author: minguss
+categories: devlog devops
+categories: devlog scm git
 tags: git
 ---
 

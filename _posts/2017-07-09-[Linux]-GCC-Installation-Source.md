@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "GCC Installation(Source)"
-subtitle:   "GCC Installation(Source)"
-categories: devlog
+date:   2017-08-26 08:00:00
+author: minguss
+categories: devlog os
 tags: linux
 image: /assets/img/linux-logo.png
 share-img: /assets/img/linux-logo.png

@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Hashmap-HashTable"
-subtitle:   "Hashmap-HashTable"
-categories: devlog
+date:   2017-07-15 08:00:00
+author: minguss
+categories: devlog java
+categories: java
 tags: java
 ---
 

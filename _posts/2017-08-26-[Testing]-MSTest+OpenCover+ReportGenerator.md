@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "MSTest+OpenCover+ReportGenerator"
-subtitle:   "MSTest+OpenCover+ReportGenerator"
-categories: devlog
+date:   2017-08-26 08:00:00
+author: minguss
+categories: devlog quality devops
 tags: testing
 ---
 

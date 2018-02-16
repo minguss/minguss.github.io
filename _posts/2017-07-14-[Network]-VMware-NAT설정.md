@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "VMware player - NAT Settings"
-subtitle:   "VMware player - NAT Settingsr"
+date:   2017-07-14 08:00:00
+author: minguss
 categories: devlog
-tags: network
+tags: network linux vmware
 ---
 
 

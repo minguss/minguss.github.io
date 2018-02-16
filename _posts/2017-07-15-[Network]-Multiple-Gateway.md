@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Multiple-Gateway"
-subtitle:   "Multiple-Gateway"
-categories: devlog
+date:   2017-07-15 08:00:00
+author: minguss
+categories: os network
 tags: network
 ---
 

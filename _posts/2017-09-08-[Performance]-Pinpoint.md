@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Pinpoint"
-subtitle:   "Pinpoint"
-categories: devlog
+date:   2017-09-11 08:00:00
+author: minguss
+categories: performance
 tags: performance
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title:  "Web Service 처리과정"
 subtitle: "how to work web services in java"
-categories: devlog
+date:   2018-02-04 00:00:00
+author: minguss
+categories: web architecture
 tags: web network java middleware
 ---
 

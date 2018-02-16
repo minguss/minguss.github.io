@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "프로세스 찾아서 kill하기"
-subtitle:   "Process search, kill"
-categories: devlog
+date:   2017-09-08 08:00:00
+author: minguss
+categories: os linux
 tags: linux
 ---
 

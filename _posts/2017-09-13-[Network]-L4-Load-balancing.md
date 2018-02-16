@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "L4-Load-balancing"
-subtitle:   "Load-balancing"
-categories: devlog
+date:   2017-09-13 08:00:00
+author: minguss
+categories: devlog network
 tags: network
 ---
 

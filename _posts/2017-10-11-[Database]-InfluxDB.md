@@ -2,7 +2,9 @@
 layout: post
 title:  "InfluxDB"
 subtitle:   "InfluxDB"
-categories: devlog
+date:   2017-10-11 08:00:00
+author: minguss
+categories: database
 tags: nosql influxdb
 ---
 

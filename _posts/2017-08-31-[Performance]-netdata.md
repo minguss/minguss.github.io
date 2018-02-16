@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "netdata"
-subtitle:   "netdata"
-categories: devlog
+date:   2017-08-31 08:00:00
+author: minguss
+categories: performance
 tags: performance
 ---
 

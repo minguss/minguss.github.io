@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "처음부터 설치하며 배우는 앤서블(Ansible)수강 후기"
-subtitle:   "처음부터 설치하며 배우는 앤서블(Ansible)수강 후기"
-categories: devlog
-tags: devops deploy
+date:   2017-08-01 08:00:00
+author: minguss
+categories: devlog devops
+tags: devops deploy ansible devops
 image: "/assets/img/ansible-logo.png"
 share-img: "/assets/img/ansible-logo.png"
 ---

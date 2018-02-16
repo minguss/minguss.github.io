@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "httpd-permission-error"
-subtitle:   "httpd-permission-error"
-categories: devlog
+date:   2017-10-17 08:00:00
+author: minguss
+categories: devlog web
 tags: web
 ---
 
