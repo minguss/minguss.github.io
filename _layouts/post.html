@@ -10,6 +10,7 @@ layout: default
       {% if page.subtitle %}
         <p class="info">{{page.subtitle}}</p>
       {% endif %}
+      <p class="info">by <strong>{{ page.author }}</strong></p>
     </header>
   </div>
   {% if page.cover_artist %}
@@ -26,6 +27,8 @@ layout: default
 </div>
 
 <div class="wrapper">
+
+{% unless page.cover %} {% include page_divider.html %} {% endunless %}
 
 <section class="post-meta">
   <div class="post-date">Posted on the <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">

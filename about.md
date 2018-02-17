@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
+description: i am extremely passionate about software development, distributed systems and open source.
 permalink: /about/
 ---
 
@@ -42,3 +43,17 @@ My Responsibilities were to:
 - Virtualization : VMWare(ESXi), Docker, Kubernetes, Rancher(Cattle)
 - Deployment Tools : Ansible
 - etc : Nexus, SVN, Git, StarTeam, Jira, Redmine, Confluence, Grafana, ELK (Elasticsearch + Logstash + Kibana)
+
+<div align="center">
+<p>
+<a href="mailto:minguss0821@gmail.com"><i class="fa fa-envelope-o fa-fw" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
+&nbsp; &nbsp; &nbsp;
+<a href="https://github.com/minguss"><i class="fa fa-github" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
+&nbsp; &nbsp; &nbsp;
+<a href="https://twitter.com/minguss7"><i class="fa fa-twitter" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
+&nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/minho-park-26881010a"><i class="fa fa-linkedin" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
+</p>
+</div>
+
+PS: Best way to reach me is email.
