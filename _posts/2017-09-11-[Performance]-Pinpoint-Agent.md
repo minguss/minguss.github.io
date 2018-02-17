@@ -3,7 +3,7 @@ layout: post
 title:  "Pinpoint-Agent"
 date:   2017-09-11 08:00:00
 author: minguss
-categories: performance
+categories: devlog
 tags: performance
 ---
 

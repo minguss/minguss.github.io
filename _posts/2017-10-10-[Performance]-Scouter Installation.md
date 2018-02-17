@@ -4,7 +4,7 @@ title:  "Scouter APM 도구 설치"
 subtitle:   "Setting up Scouter APM"
 date:   2017-10-10 08:00:00
 author: minguss
-categories: performance architecture
+categories: devlog
 tags: web
 ---
 

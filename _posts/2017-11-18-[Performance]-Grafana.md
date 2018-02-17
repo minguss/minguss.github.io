@@ -3,7 +3,7 @@ layout: post
 title:  "Grafana"
 date:   2017-11-18 08:00:00
 author: minguss
-categories: performance architecture
+categories: devlog
 tags: performance
 ---
 

@@ -4,7 +4,7 @@ title:  "Web Service 처리과정"
 subtitle: "how to work web services in java"
 date:   2018-02-04 00:00:00
 author: minguss
-categories: web architecture
+categories: devlog
 tags: web network java middleware
 ---
 
@@ -14,46 +14,10 @@ Web Service
 우리는 서로 다른 OS(Windows, Linux, MAC)를 사용하는데 웹 브라우저를 통해서 동일한 Web Application을 사용할 수 있죠.  
 웹 서비스는 논리적 응용 프로그램의 단위로 데이터와 서비스를 다른 응용 프로그램에 제공하고, HTTP, XML, SOAP와 같은 표준화된 웹 프로토콜과 데이터 형식을 사용하여 위와 같은 서로 다른 OS플랫폼에서 원활한 데이터의 흐름을 보장해 줍니다. 거의 모든 메시징처리에 XML이 사용되어 상호운용성 또한 높습니다.  
 
-### Web Service 를 이루는 요소
-- SOAP(Simple Object Access Protocol)  
- 분산 환경에서의 정보 교환을 목적으로 하는 경량의 XML기반 프로토콜입니다. 즉 웹 서비스에 사용되는 메시지의 데이터 포맷과 메시지의 처리룰을 정한 표준 통신 규약이라고 볼 수 있습니다.  
- SOAP를 지원하는 서버가 대중화 되면서 대부부분의 서버가 Web 접근이 가능해 졌습니다.   
- ![SOAP](http://api.epeople.go.kr/guide/images/soap_str.jpg)
-
- - SOAP의 장점  
-    1. SOAP은 기본적으로 HTTP 기반 위에서 동작하기 때문에, HTTP와 같이 프록시와 방화벽에 구애받지 않고 쉽게 통신이 가능하다.
-    2. SOAP는 표준 트랜스포트 프로토콜인 HTTP 이외의 다른 트랜스포트 프로토콜들(SMTP)을 사용할 수 있다.
-    3. 플랫폼 및 프로그래밍 언어에 독립적이다.
-    4. 간단하고 확장 가능하며, (멀티파트 MIME 구조를 사용하여) 첨부를 통합하는 SOAP XML 메시지를 지원한다.
-
- - SOAP의 단점  
-    1. XML 포맷의 형태로 보내기 때문에 다른 기술과 비교해서 상대적으로 느리다. (최근 네트워크 속도의 비약적인 발전과 성능 최적화 기술의 발전으로 많은 부분이 해결되고 있다.)
-
- - SOAP Message Example  
-    ![Example](http://api.epeople.go.kr/guide/images/soap_message_example.jpg)
-
-- WSDL(Web Service Description Language)
- 웹 서비스를 설명하는언어, WSDL을 통해 서비스를 구성하는 오퍼레이션과 요청/응답 메시지 구조, 데이터 타입 등을 인지할 수 있습니다. 때문에 WSDL이 어디에 있는지만 안다면 바로 적용해서 서비스를 사용할 수 있기 때문에, 적용이 편리합니다.  
-
-- UDDI(Universal Description Discovery & Integration)
- WSDL이 위치하는 곳을 UDDI라고 설명하는 경우가 있습니다. 쉽게 생각해서 UDDI는 웹 서비스 공개저장소라고 생각하면 이해가 쉽겠습니다. WSDL을 찾을 수 있는 마켓이라고 판단하면 되겠네요. UDDI는 여러 WSDL을 가지고 있는 마켓이기 때문에 이 곳에서 원하는 WSDL을 이름별, 카테고리별로 검색하고 사용하는 공간입니다. 원하는 서비스를 찾아서 적용한다는 의미가 이것입니다. 하지만, UDDI가 아니더라도 네트워크상으로 접근이 가능한 곳에 위치한다면 웹서비스는 성립됩니다. 따라서 WSDL이 UDDI에 존재하는 것은 아닙니다.  
-
-- REST(Representational State Transfer)
- REST는 월드 와이드 웹과 같은 분산 하이퍼미디어 시스템을 위한 소프트웨어 아키텍처의 한 형식으로, 로이 필딩(Roy Fielding)의 2000년 박사학위 논문에서 소개되었습니다. 로이 필딩은 HTTP의 주요 저자 중 한 사람으로 
- 발표 당시는 대규모의 네트워크 시스템을 위한 방법이라는 뜻이었지만 최근 이용되고 있는 REST는 HTTP와 XML을 이용하여 데이터를 주고 받는 웹 서비스를 이용하는 것으로 쓰이고 있습니다.  
- ![REST](http://api.epeople.go.kr/guide/images/rest_str.jpg)  
-위 그림과 같이 URL을 통해서 데이터를 요청하고 있으며 그 결과는 XML형태로 반환됩니다. 각각의 요청과 반환되는 XML은 아래와 같은 구조로 이뤄집니다.  
-![REST_XML](http://api.epeople.go.kr/guide/images/rest_sample.jpg)
-![SOAP_VS_REST](http://comtech2.com/wp-content/uploads/2016/08/web-services-a-practical-approach-7-638.jpg)
-
-
-SOAP와 REST에 대한 자세한 내용은 추후 포스팅으로 다루도록 하겠습니다.
-
 Web Service Flow (Overview)
 ===
 
-### Browser부터 Server까지 Network의 큰 흐름  
-[http://asfirstalways.tistory.com/297?category=685177](http://asfirstalways.tistory.com/297?category=685177)  
+### [Browser부터 Server까지 Network의 큰 흐름](http://asfirstalways.tistory.com/297?category=685177)  
 
 
 Web Service Flow (Server/Middleware View)
@@ -83,6 +47,6 @@ Application 관점에서의 Web Service Architecture는 Front-end, Back-end Fram
  - http://api.epeople.go.kr/guide/contents/wstype_soap.html
  - http://api.epeople.go.kr/guide/contents/wstype_rest.html
  - http://www.nextree.co.kr/p11842/
- - http://www.e-cartouche.ch/content_reg/cartouche/webservice/en/html/wms_learningObject1.html
+ - [e-cartouche.ch](http://www.e-cartouche.ch/content_reg/cartouche/webservice/en/html/wms_learningObject1.html)
  - http://asfirstalways.tistory.com/297?category=685177
  - http://hack4profit.tistory.com/28

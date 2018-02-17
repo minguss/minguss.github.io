@@ -4,7 +4,7 @@ title:  "X-Forwarded-For"
 subtitle:   "Proxy ip - Client ip Settings"
 date:   2017-09-13 08:00:00
 author: minguss
-categories: network web
+categories: devlog
 tags: web
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Microservice Architecture"
 date:   2017-11-19 08:00:00
 author: minguss
-categories: devlog architecture
+categories: devlog
 tags: microservice
 ---
 

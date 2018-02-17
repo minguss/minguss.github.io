@@ -3,7 +3,7 @@ layout: post
 title:  "Jenkins-Installation"
 date:   2017-08-27 08:00:00
 author: minguss
-categories: devops ci
+categories: devlog
 tags: devops
 image: "/assets/img/jenkins-logo.png"
 share-img: "/assets/img/jenkins-logo.png"

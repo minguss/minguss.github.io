@@ -3,7 +3,7 @@ layout: post
 title:  "Hashmap-HashTable"
 date:   2017-07-15 08:00:00
 author: minguss
-categories: devlog java
+categories: devlog
 categories: java
 tags: java
 ---

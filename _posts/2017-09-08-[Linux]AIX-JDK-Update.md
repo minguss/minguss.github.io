@@ -3,7 +3,7 @@ layout: post
 title:  "JDK Update On AIX Machine"
 date:   2017-09-08 08:00:00
 author: minguss
-categories: os unix
+categories: devlog
 tags: linux
 ---
 

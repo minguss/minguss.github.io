@@ -3,7 +3,7 @@ layout: post
 title:  "netdata"
 date:   2017-08-31 08:00:00
 author: minguss
-categories: performance
+categories: devlog
 tags: performance
 ---
 

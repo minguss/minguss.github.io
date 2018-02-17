@@ -3,7 +3,7 @@ layout: post
 title:  "Time-Sync"
 date:   2017-09-18 08:00:00
 author: minguss
-categories: os linux
+categories: devlog
 tags: web
 ---
 

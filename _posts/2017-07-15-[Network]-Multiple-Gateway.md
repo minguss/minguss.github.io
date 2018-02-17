@@ -3,7 +3,7 @@ layout: post
 title:  "Multiple-Gateway"
 date:   2017-07-15 08:00:00
 author: minguss
-categories: os network
+categories: devlog
 tags: network
 ---
 

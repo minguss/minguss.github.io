@@ -2,7 +2,7 @@
 layout: post
 title:  "Korea DevOps Meetup '18"
 subtitle:   "DevOps Meetup후기"
-categories: life devlog
+categories: essay
 date:   2018-01-13 08:00:00
 author: minguss
 tags: devops meetup

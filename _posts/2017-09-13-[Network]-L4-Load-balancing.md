@@ -3,7 +3,7 @@ layout: post
 title:  "L4-Load-balancing"
 date:   2017-09-13 08:00:00
 author: minguss
-categories: devlog network
+categories: devlog
 tags: network
 ---
 

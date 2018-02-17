@@ -3,7 +3,7 @@ layout: post
 title:  "RewriteRule"
 date:   2017-08-31 08:00:00
 author: minguss
-categories: devlog web middleware
+categories: devlog 
 tags: web
 ---
 

@@ -4,7 +4,7 @@ title:  "InfluxDB"
 subtitle:   "InfluxDB"
 date:   2017-10-11 08:00:00
 author: minguss
-categories: database
+categories: devlog
 tags: nosql influxdb
 ---
 

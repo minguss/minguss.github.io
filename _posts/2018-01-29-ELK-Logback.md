@@ -3,7 +3,7 @@ layout: post
 title:  "Logback Connect with ELK Stack - 1"
 date:   2018-01-29 08:00:00
 author: minguss
-categories: Performance ELK
+categories: devlog
 tags: rancher docker kibana elasticsearch logstash logback
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Rancher"
 date:   2018-01-02 08:00:00
 author: minguss
-categories: rancher docker devops
+categories: devlog
 tags: docker rancher
 share-img: https://minguss821.github.io/assets/img/rancher.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Sonarqube-Installation"
 date:   2017-08-27 08:00:00
 author: minguss
-categories: quality
+categories: devlog
 tags: codequality
 header-img: "https://www.sonarqube.org/assets/logo-31ad3115b1b4b120f3d1efd63e6b13ac9f1f89437f0cf6881cc4d8b5603a52b4.svg"
 ---
