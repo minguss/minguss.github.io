@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oracle12cR2에서의 RAC"
+title:  "[Oracle]ORA-27102: Out of memory"
 date:   2018-02-18 23:09:59
 author: minguss
 categories: devlog
