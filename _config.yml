@@ -116,8 +116,8 @@ social:
 
   - name: StackOverFlow
     icon: stack-overflow
-    username: minguss
-    url: https://stackoverflow.com/users/8480927/minguss
+    username: 
+    url: 
     desc:
     share: true
 
