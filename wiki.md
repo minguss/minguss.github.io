@@ -1,0 +1,5 @@
+---
+layout: page
+permalink: http://minguss0821.dlinkddns.com:8090/
+title: Wiki
+---
