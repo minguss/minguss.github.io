@@ -38,3 +38,14 @@ smittty install_all
 여기에는 `Option: [] SOFTWARE to install` 항목에 내용을 채워줘야 하는데 먼저 `F4`버튼을 눌러서 해당하는 디렉토리에 설치 가능 파일들이 무엇들이 있는지 확인해봅니다. 설치 목록 파일들이 있다면 취소 하고 내용에 `*`를 입력해 줍니다. 그리고 `Option: ACCEPT new license agreements?` 옵션에서 `Tab`키를 눌러서 Accept한 뒤 `Enter`버튼을 눌러서 설치를 진행합니다.
 
 이후에 `/usr/java8_64`가 생성된 것을 확인하고 `/usr/java8_64/bin/java -version`을 입력하여 설치를 확인합니다.
+
+----
+2018-03-12 추가 포스팅
+Smitty을 이용한 Java 설치 이외에 다른 방법이 있는 점을 확인했습니다.  
+방법은 **installp -a -Y -d '경로' '파일명'**으로 설치하는 방법인데요.  
+-a (-u)는 설치(삭제)옵션이며, -Y는 설치 동의 옵션입니다. -d는 설치 파일 디렉토리 정의 옵션입니다.  
+``` bash
+su -
+installp -a -Y -d '/tmp/java7' Java7_64.sdk
+```
+위와 같은 command로 바로 설치할 수 있겠습니다.
