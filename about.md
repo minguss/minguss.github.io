@@ -8,7 +8,7 @@ permalink: /about/
 <img src="{{ site.baseurl }}/assets/me.jpg" title="Profile Picture" class="profile">
 
 ### Introduce  
-For 5 years I worked as Software Developer, System Engineer, Technical Architect.  
+For 5 years I worked as Software Developer, System Engineer, Architect.  
 My Responsibilities were to:  
 - Develop system engineering, software engineering, system integration, or system architectures
 - Setting up automated CI/CD environment
@@ -18,7 +18,8 @@ My Responsibilities were to:
 - Perform analyses of developed or packaged software components
 
 ### Work Experience
-- Software Engineer, [Ssangyong Information & Communications Corp](http://www.sicc.co.kr/Index.do). (2015 ~ current)
+- IT Specialist, [IBM](http://www.ibm.com). (2018 ~ Current)
+- Software Engineer, [Ssangyong Information & Communications Corp](http://www.sicc.co.kr/Index.do). (2015 ~ 2018)
   - [Korea Naval C4I Process Improvement Project](http://gdnews.kr/news/article.html?no=2932)  
   - [6th CISM Military World Games, MUNGYEONG KOREA](http://www.edaily.co.kr/news/NewsRead.edy?SCD=JE41&newsid=01394006609531936&DCD=A00504&OutLnkChk=Y)  
 - 1st Lieutenent, [Republic of Korea Airforce](http://www.airforce.mil.kr:8081/user/indexMain.action?siteId=airforce).(2012 ~ 2015)
