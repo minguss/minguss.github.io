@@ -31,28 +31,28 @@ JHipster에서의 microservice 아래와 같은 기술스택을 사용하고 있
 * `yarn global add yo`
 * `yarn global add generator-jhipster`
 
-![jhipster install](../assets/img/upload/jhipster/1.png)  
+![jhipster install](/assets/img/upload/jhipster/1.png)  
 
 
 설치 이후에 4개의 폴더를 생성합니다. 예제는 2개의 microservice와 uaa, gateway로 구성됩니다.  
 ``` bash
 mkdir uaa blog store gateway
 ```
-![jhipster install](../assets/img/upload/jhipster/2.png)  
+![jhipster install](/assets/img/upload/jhipster/2.png)  
 
 다음은 아래와 같이 jhipster명령어를 사용하여 각각의 microservice와 gateway, uaa를 생성합니다.  
 1. uaa
-![jhipster install](../assets/img/upload/jhipster/3.png)  
+![jhipster install](/assets/img/upload/jhipster/3.png)  
 2. gateway
-![jhipster install](../assets/img/upload/jhipster/4.png)  
+![jhipster install](/assets/img/upload/jhipster/4.png)  
 3. blog
-![jhipster install](../assets/img/upload/jhipster/5.png)  
+![jhipster install](/assets/img/upload/jhipster/5.png)  
 4. store
-![jhipster install](../assets/img/upload/jhipster/6.png)  
+![jhipster install](/assets/img/upload/jhipster/6.png)  
 
 생성한 뒤에는 Eclipse나 IntelliJ를 이용해서 Maven Import를 하면 됩니다. 전 Visual Studio Code를 애용하는 편이지만, 사양이 좋은 데탑에서는 Eclipse를 사용합니다. 다음 포스팅으로는 Eclipse 튜닝에 관련된 내용을 업로드 해야 겠네요.  
 
-![import](../assets/img/upload/jhipster/7.png)  
+![import](/assets/img/upload/jhipster/7.png)  
 이런식으로 하나씩 import를 해옵니다.  
 
 정상적으로 import를 해오면, boot에 내장되어 있는 embeded tomcat을 이용해서 각각의 서비스를 동작시킬 수 있습니다.  
@@ -65,10 +65,10 @@ docker-compose -f store/src/main/docker/mongodb.yml up -d
 ```
 
 그리고 각각의 서비스를 실행합니다.
-![import](../assets/img/upload/jhipster/8.png)  
+![import](/assets/img/upload/jhipster/8.png)  
 
 정상적으로 Boot 서비스가 실행되었다면, 브라우저에서 `localhost:8080`으로 접속을 시도해서 gateway로 정상적으로 연결되는지 확인합니다.  
 
-![excute](../assets/img/upload/jhipster/9.png)  
+![excute](/assets/img/upload/jhipster/9.png)  
 
 지금까지 Jhipster로 MSA Application만들어보기를 살펴보았는데요, 다음 포스팅에서는 Kubernetes환경으로 배포하는 방법, 그리고 Entity추가하는 방법들을 정리해보도록 하겠습니다.
