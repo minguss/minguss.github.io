@@ -27,22 +27,27 @@ My Responsibilities were to:
   - [UMPC](http://kookbang.dema.mil.kr/kookbangWeb/view.do?ntt_writ_date=20080919&parent_no=3&bbs_id=BBSMSTR_000000000006)
 
 ### Education
+- Master of Engineering in Computer Engineering, Yonsei University (2021.08)
 - Bachelor of Engineering in Computer Engineering, Yonsei University (2012.02)
-  - 9th Embedded Software Contest Encouragement Award(2011)  
+  - 9th Embedded Software Contest Award(2011)  
     [Motion capture robot using kinect(x-box controller)](http://eswcontest.com/bbs/board.php?tbl=award&&chr=&category=2011%B3%E2&findType=&findWord=&sort1=&sort2=&page=2)
-  - 8th Embedded Software Contest Encouragement Award (2010)
+  - 8th Embedded Software Contest Award (2010)  
     [Recognition studded paving block Robot using OpenCV Library](http://eswcontest.com/bbs/board.php?tbl=award&&chr=&category=2010%B3%E2&findType=&findWord=&sort1=&sort2=&page=2)
 
 ### Skills
 - Programming : Java, Python, Shell
+- Framework : Spring, .NET Core
 - OS : AIX, Redhat, Fedora, CentOS, Ubuntu, Windows Server
-- Middleware : Weblogic, Tomcat
-- Database : Oracle, Mysql, MS-SQL, InfluxDB
-- CI Tools : Jenkins
+- Middleware : Weblogic, Tomcat, Liberty, WebSphere
+- Database : Oracle, Mysql, MS-SQL, InfluxDB, DB2, Prometheus, MongoDB
+- CI/CD Tools : Jenkins, GitlabCI, Spinnaker
 - Code Quality : SonarQube, Sparrow
 - Test Tools : JUnit, GCov, MSTest, OpenCover, NUnit, Parasoft Tools (JTest, Cpptest)
-- Virtualization : VMWare(ESXi), Docker, Kubernetes, Rancher(Cattle)
+- Virtualization : VMWare(ESXi)
+- Docker Orchestration : IBM Cloud Private, Kubernetes, Rancher(Cattle)
+- Cloud : IBM Cloud, Google Cloud Platform
 - Deployment Tools : Ansible
+- API Manage Tools : IBM APIConnect, Kong API Gateway
 - etc : Nexus, SVN, Git, StarTeam, Jira, Redmine, Confluence, Grafana, ELK (Elasticsearch + Logstash + Kibana)
 
 <div align="center">
