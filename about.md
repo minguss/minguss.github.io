@@ -27,7 +27,6 @@ My Responsibilities were to:
   - [UMPC](http://kookbang.dema.mil.kr/kookbangWeb/view.do?ntt_writ_date=20080919&parent_no=3&bbs_id=BBSMSTR_000000000006)
 
 ### Education
-- Master of Engineering in Computer Engineering, Yonsei University (2021.08)
 - Bachelor of Engineering in Computer Engineering, Yonsei University (2012.02)
   - 9th Embedded Software Contest Award(2011)  
     [Motion capture robot using kinect(x-box controller)](http://eswcontest.com/bbs/board.php?tbl=award&&chr=&category=2011%B3%E2&findType=&findWord=&sort1=&sort2=&page=2)
