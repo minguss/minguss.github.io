@@ -10,9 +10,9 @@ permalink: /about/
 ### Introduce  
 For 5 years I worked as Software Developer, System Engineer, Architect.  
 My Responsibilities were to:  
-- Develop system engineering, software engineering, system integration, or system architectures
-- Setting up automated CI/CD environment
-- Monitoring system operation to detect potential problems
+- Software engineer
+- DevOps Specialist
+- Application Architect
 - Develop system requirements, processes, and design specs based on organizational needs, and industry trends
 - Share issue with relevant teams and team members collaborate to make sure above expectation results
 - Perform analyses of developed or packaged software components
@@ -34,20 +34,19 @@ My Responsibilities were to:
     [Recognition studded paving block Robot using OpenCV Library](http://eswcontest.com/bbs/board.php?tbl=award&&chr=&category=2010%B3%E2&findType=&findWord=&sort1=&sort2=&page=2)
 
 ### Skills
-- Programming : Java, Python, Shell
-- Framework : Spring, .NET Core
+- Programming : Java, Python, Shell, C#
+- Framework : Spring, .NET Core, Vert.x
 - OS : AIX, Redhat, Fedora, CentOS, Ubuntu, Windows Server
-- Middleware : Weblogic, Tomcat, Liberty, WebSphere
+- Middleware : Weblogic, Tomcat, Liberty, WebSphere, Nginx, HAProxy
 - Database : Oracle, Mysql, MS-SQL, InfluxDB, DB2, Prometheus, MongoDB
-- CI/CD Tools : Jenkins, GitlabCI, Spinnaker
+- CI/CD Tools : Jenkins, GitlabCI, Spinnaker, Argo CD
 - Code Quality : SonarQube, Sparrow
 - Test Tools : JUnit, GCov, MSTest, OpenCover, NUnit, Parasoft Tools (JTest, Cpptest)
-- Virtualization : VMWare(ESXi)
-- Docker Orchestration : IBM Cloud Private, Kubernetes, Rancher(Cattle)
-- Cloud : IBM Cloud, Google Cloud Platform
-- Deployment Tools : Ansible
+- Virtualization : VMWare(ESXi), OpenStack
+- Docker Orchestration : IBM Cloud Private, Kubernetes, Rancher, DC/OS
+- Cloud : IBM Cloud, Google Cloud Platform, AWS
 - API Manage Tools : IBM APIConnect, Kong API Gateway
-- etc : Nexus, SVN, Git, StarTeam, Jira, Redmine, Confluence, Grafana, ELK (Elasticsearch + Logstash + Kibana)
+- etc : Nexus, SVN, Git, StarTeam, Jira, Redmine, Confluence, Grafana, ELK, HazelCast
 
 <div align="center">
 <p>
