@@ -17,6 +17,9 @@ My Responsibilities were to:
 
 ### Work Experience
 - IT Specialist, [IBM](http://www.ibm.com). 
+  - IBM Cloud Private Expert service
+  - API Connect Governance project
+  - IBM Cloud Garage
 - Application Architect/Software Engineer, [Ssangyong Information & Communications Corp](http://www.sicc.co.kr/Index.do). 
   - [Korea Naval C4I Process Improvement Project](http://gdnews.kr/news/article.html?no=2932)  
   - [6th CISM Military World Games, MUNGYEONG KOREA](http://www.edaily.co.kr/news/NewsRead.edy?SCD=JE41&newsid=01394006609531936&DCD=A00504&OutLnkChk=Y)  
