@@ -28,8 +28,8 @@ My Responsibilities were to:
   - [UMPC](http://kookbang.dema.mil.kr/kookbangWeb/view.do?ntt_writ_date=20080919&parent_no=3&bbs_id=BBSMSTR_000000000006)
 
 ### Skills
-- Programming : Java, Python, Shell, C#
-- Framework : Spring, .NET Core, Vert.x
+- Programming : Java, Python, Shell, C#, C++
+- Framework : Spring, .NET Core, Vert.x, Qt
 - OS : AIX, Redhat, Fedora, CentOS, Ubuntu, Windows Server
 - Middleware : Weblogic, Tomcat, Liberty, WebSphere, Nginx, HAProxy
 - Database : Oracle, Mysql, MS-SQL, InfluxDB, Prometheus, MongoDB, Redis
