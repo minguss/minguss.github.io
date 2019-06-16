@@ -19,19 +19,12 @@ My Responsibilities were to:
 
 ### Work Experience
 - IT Specialist, [IBM](http://www.ibm.com). (2018 ~ Current)
-- Software Engineer, [Ssangyong Information & Communications Corp](http://www.sicc.co.kr/Index.do). (2015 ~ 2018)
+- Application Architect/Software Engineer, [Ssangyong Information & Communications Corp](http://www.sicc.co.kr/Index.do). (2015 ~ 2018)
   - [Korea Naval C4I Process Improvement Project](http://gdnews.kr/news/article.html?no=2932)  
   - [6th CISM Military World Games, MUNGYEONG KOREA](http://www.edaily.co.kr/news/NewsRead.edy?SCD=JE41&newsid=01394006609531936&DCD=A00504&OutLnkChk=Y)  
 - 1st Lieutenent, [Republic of Korea Airforce](http://www.airforce.mil.kr:8081/user/indexMain.action?siteId=airforce).(2012 ~ 2015)
   - [Flight Information Device](http://kookbang.dema.mil.kr/kookbangWeb/view.do?parent_no=1&bbs_id=BBSMSTR_000000000006&ntt_writ_date=20140128)
   - [UMPC](http://kookbang.dema.mil.kr/kookbangWeb/view.do?ntt_writ_date=20080919&parent_no=3&bbs_id=BBSMSTR_000000000006)
-
-### Education
-- Bachelor of Engineering in Computer Engineering, Yonsei University (2012.02)
-  - 9th Embedded Software Contest Award(2011)  
-    [Motion capture robot using kinect(x-box controller)](http://eswcontest.com/bbs/board.php?tbl=award&&chr=&category=2011%B3%E2&findType=&findWord=&sort1=&sort2=&page=2)
-  - 8th Embedded Software Contest Award (2010)  
-    [Recognition studded paving block Robot using OpenCV Library](http://eswcontest.com/bbs/board.php?tbl=award&&chr=&category=2010%B3%E2&findType=&findWord=&sort1=&sort2=&page=2)
 
 ### Skills
 - Programming : Java, Python, Shell, C#
