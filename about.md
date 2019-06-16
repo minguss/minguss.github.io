@@ -32,15 +32,15 @@ My Responsibilities were to:
 - Framework : Spring, .NET Core, Vert.x
 - OS : AIX, Redhat, Fedora, CentOS, Ubuntu, Windows Server
 - Middleware : Weblogic, Tomcat, Liberty, WebSphere, Nginx, HAProxy
-- Database : Oracle, Mysql, MS-SQL, InfluxDB, DB2, Prometheus, MongoDB
+- Database : Oracle, Mysql, MS-SQL, InfluxDB, Prometheus, MongoDB, Redis
 - CI/CD Tools : Jenkins, GitlabCI, Spinnaker, Argo CD
 - Code Quality : SonarQube, Sparrow
 - Test Tools : JUnit, GCov, MSTest, OpenCover, NUnit, Parasoft Tools (JTest, Cpptest)
 - Virtualization : VMWare(ESXi), OpenStack
-- Docker Orchestration : IBM Cloud Private, Kubernetes, Rancher, DC/OS
+- Docker Orchestration : IBM Cloud Private, Kubernetes, Rancher
 - Cloud : IBM Cloud, Google Cloud Platform, AWS
 - API Manage Tools : IBM APIConnect, Kong API Gateway
-- etc : Nexus, SVN, Git, StarTeam, Jira, Redmine, Confluence, Grafana, ELK, HazelCast
+- etc : Nexus, SVN, Git, StarTeam, Jira, Redmine, Confluence, Grafana, ELK, HazelCast, Netdata
 
 <div align="center">
 <p>
