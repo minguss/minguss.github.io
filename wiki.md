@@ -1,6 +1,6 @@
 ---
-url: http://wiki.minguss.me/
+url: http://wiki.minguss.com/
 title: Wiki
 ---
 
-[Confluence WIKI](http://wiki.minguss.me)
+[Confluence WIKI](http://wiki.minguss.com)
