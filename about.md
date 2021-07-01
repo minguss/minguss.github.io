@@ -16,6 +16,12 @@ My Responsibilities were to:
 - Perform analyses of developed or packaged software components
 
 ### Work Experience
+- Software Developer, [SAP Labs](https://www.sap.com/korea/about/labs-korea.html). 
+  - HANA Cloud service development
+- Software Engineer, [eBay](https://www.ebayinc.com/). 
+  - Openshift & Kubernetes buildup / management
+  - API Gateway buildup / management
+  - Ops Automation development
 - IT Specialist, [IBM](http://www.ibm.com). 
   - IBM Cloud Private Expert service
   - API Connect Governance project
@@ -27,8 +33,16 @@ My Responsibilities were to:
   - [Flight Information Device](http://kookbang.dema.mil.kr/kookbangWeb/view.do?parent_no=1&bbs_id=BBSMSTR_000000000006&ntt_writ_date=20140128)
   - [UMPC](http://kookbang.dema.mil.kr/kookbangWeb/view.do?ntt_writ_date=20080919&parent_no=3&bbs_id=BBSMSTR_000000000006)
 
+### Education
+- Master of Engineering in Computer Engineering, Yonsei University (2021.08)
+- Bachelor of Engineering in Computer Engineering, Yonsei University (2012.02)
+  - 9th Embedded Software Contest Award(2011)  
+    [Motion capture robot using kinect(x-box controller)](http://eswcontest.com/bbs/board.php?tbl=award&&chr=&category=2011%B3%E2&findType=&findWord=&sort1=&sort2=&page=2)
+  - 8th Embedded Software Contest Award (2010)  
+    [Recognition studded paving block Robot using OpenCV Library](http://eswcontest.com/bbs/board.php?tbl=award&&chr=&category=2010%B3%E2&findType=&findWord=&sort1=&sort2=&page=2)
+
 ### Skills
-- Programming : Java, Python, Shell, C#, C++
+- Programming : Go, Java, Python, Shell, C#, C++
 - Framework : Spring, .NET Core, Vert.x, Qt
 - OS : AIX, Redhat, Fedora, CentOS, Ubuntu, Windows Server
 - Middleware : Weblogic, Tomcat, Liberty, WebSphere, Nginx, HAProxy

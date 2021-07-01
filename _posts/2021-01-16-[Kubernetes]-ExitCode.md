@@ -29,7 +29,7 @@ Exit Code는 `kubectl describe`명령어를 통해서 확인할 수 있다.
 1. Exit Code 0
     - 이 종료 코드는 지정된 컨테이너 명령이 '성공적으로'완료되었지만 Kubernetes가 작동하는 것으로 받아들이기에는 너무 자주 완료되었음을 의미한다.  
     - 주로 일회성 BatchJob으로 만들어진 Pod을 Deployment(ReplicaSet, ReplicationController)로 만든 경우 이런 현상이 발생한다.  
-    ***********
+    
     **Runbook**
     - `kubectl describe -n [NAMESPACE_NAME] pod [POD_NAME] > /tmp/runbooks_describe_pod.txt`명령으로 단서가 될 만한 내용들을 찾아본다.  
 
@@ -38,7 +38,7 @@ Exit Code는 `kubectl describe`명령어를 통해서 확인할 수 있다.
     - 컨테이너가 명령을 성공적으로 실행하지 못했고 종료 코드 1을 반환, 이것은 시작된 프로세스 내의 `응용 프로그램 오류`이지만 얼마 후에 실패한 종료 코드와 함께 반환됩니다.
     - Pod과 연결되는 서비스의 부하로 인해서 Connection timeout이 발생하는 경우 (ex, DB)
     - Network단절로 인한 Timeout으로 Application내부에서 Error를 발생하는 경우
-    ***********
+
     **Runbook**
     - `kubectl get nodes -o wide`로 노드의 상태를 확인해본다. 노드의 장애 상황일 수도 있다.
     - `kubectl describe -n [NAMESPACE_NAME] pod [POD_NAME] > /tmp/runbooks_describe_pod.txt`명령으로 단서가 될 만한 내용들을 찾아본다.
@@ -46,7 +46,7 @@ Exit Code는 `kubectl describe`명령어를 통해서 확인할 수 있다.
 ---
 3. Exit Code 2
     - `응용 프로그램 오류`또는 `misuse of a shell builtin`
-    ***********
+
     **Runbook**
     - Local에서 해당 이미지를 실행해보고 확인해봐야 한다. application문제이다.
 
