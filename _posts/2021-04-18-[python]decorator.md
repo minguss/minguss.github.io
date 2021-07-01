@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[docker]-맥북에서 Docker Resource 줄이기"
+title:  "[python]-decorator사용하기"
 author: minguss
 categories: devlog
 tags: python annotation
