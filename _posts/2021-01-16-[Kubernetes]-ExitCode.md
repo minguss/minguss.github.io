@@ -3,7 +3,7 @@ layout: post
 title:  "[kubernetes]-ExitCode"
 author: minguss
 categories: devlog
-tags: go
+tags: go kubernetes
 ---
 
 최근에 Pod의 문제가 있어서 해결 하던 중 생각하지 못했던 포인트에서 문제를 찾을 수 있었다.  
